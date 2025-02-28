@@ -12,8 +12,8 @@
   <p align="center">
 <a href="https://github.com/Tennor-modz/followers"><img title="Followers" src="https://img.shields.io/github/followers/Tennor-modz?color=blue&style=flat-square"></a>
 <a href="https://github.com/Tennor-modz/Bellah-XMD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Tennor-modz/Luck-XMD?color=blue&style=flat-square"></a>
-<a href="https://github.com/Tennor-modz/Bellah-XMD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Tennor-modz/Bellah-XMD?color=blue&style=flat-square"></a>
-<a href="https://github.com/Tennor-modz/Bellah-XMD/"><img title="Size" src="https://img.shields.io/github/repo-size/Tennor-modz/Bellah-XMD?style=flat-square&color=green"></a>
+<a href="https://github.com/Tennor-modz/Bellah-XMD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Tennor-modz//Luck-XMD?color=blue&style=flat-square"></a>
+<a href="https://github.com/Tennor-modz/Bellah-XMD/"><img title="Size" src="https://img.shields.io/github/repo-size/Tennor-modz//Luck-XMD?style=flat-square&color=green"></a>
 <a href="https://github.com/Tennor-modz/Bellah-XMD/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
 </p>
 <p align='center'>
@@ -29,7 +29,7 @@
 ---
 
 
- <p align="center"><img src="https://profile-counter.glitch.me/{Bellah-XMD}/count.svg" alt="Tennor-modz :: Visitor's Count" old_src="https://profile-counter.glitch.me/{Tennor-modz}/count.svg" /></p>
+ <p align="center"><img src="https://profile-counter.glitch.me/{Luck-XMD}/count.svg" alt="Tennor-modz :: Visitor's Count" old_src="https://profile-counter.glitch.me/{Tennor-modz}/count.svg" /></p>
 
 
   <p align="center"> Meet bellah-Xmd, Your All-in-One WhatsApp Excitement Buddy! Enjoy a thrilling messaging experience like never before. bellah_xmd whatsapp bot brings a world of excitement and joy to your chats. Express yourself with unique flair and add a touch of excitement to every conversation. ✨🤖 </p
