@@ -32,7 +32,7 @@
  <p align="center"><img src="https://profile-counter.glitch.me/{Luck-XMD}/count.svg" alt="Tennor-modz :: Visitor's Count" old_src="https://profile-counter.glitch.me/{Tennor-modz}/count.svg" /></p>
 
 
-  <p align="center"> Meet bellah-Xmd, Your All-in-One WhatsApp Excitement Buddy! Enjoy a thrilling messaging experience like never before. bellah_xmd whatsapp bot brings a world of excitement and joy to your chats. Express yourself with unique flair and add a touch of excitement to every conversation. ✨🤖 </p
+  <p align="center"> Meet Luck-Xmd, Your All-in-One WhatsApp Excitement Buddy! Enjoy a thrilling messaging experience like never before. bellah_xmd whatsapp bot brings a world of excitement and joy to your chats. Express yourself with unique flair and add a touch of excitement to every conversation. ✨🤖 </p
   
   <a href="https://github.com/Tennor-modz/SUHAIL-XMD/fork"><img title="Bellah-XMD" src="https://img.shields.io/badge/FORK-Bellah XMD-h?color=blue&style=for-the-badge&logo=stackshare"></a>
 
